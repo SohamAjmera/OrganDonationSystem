@@ -27,7 +27,7 @@ c
   <li>Database: MySQL</li>
  </ul>
 <h2>Installation</h2>
-1. Clone the repository: git clone <br>
+1. Clone the repository: git clone https://github.com/SohamAjmera/OrganDonationSystem<br>
 2. Import the database schema using database.sql file. <br>
 3. Configure the database connection in config.php. <br>
 4. Deploy the project on a PHP-enabled web server. <br>
