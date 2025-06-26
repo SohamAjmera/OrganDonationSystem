@@ -1,8 +1,8 @@
 # Organ-Donation-Management-System
 
-<img src= "/Users/sohamajmera/Desktop/Organ-Donation-System-Custom/images/Screenshot 2025-06-26 at 9.17.05 AM.png" alt= "Index">
-<img src= "/Users/sohamajmera/Desktop/Organ-Donation-System-Custom/images/Screenshot 2025-06-26 at 9.20.12 AM.png" alt= "Index">
-<img src= "/Users/sohamajmera/Desktop/Organ-Donation-System-Custom/images/Screenshot 2025-06-26 at 9.21.48 AM.png" alt= "Login">
+<img src= "1.jpg" alt= "Index">
+<img src= "2.jpg" alt= "Index">
+<img src= "3.jpg" alt= "Login">
 
 
 
